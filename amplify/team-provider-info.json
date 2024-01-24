@@ -1,2 +1,27 @@
 {
+  "devh": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-photoshare-devh-122357-authRole",
+      "UnauthRoleArn": "arn:aws:iam::238359237536:role/amplify-photoshare-devh-122357-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::238359237536:role/amplify-photoshare-devh-122357-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-photoshare-devh-122357-deployment",
+      "UnauthRoleName": "amplify-photoshare-devh-122357-unauthRole",
+      "StackName": "amplify-photoshare-devh-122357",
+      "StackId": "arn:aws:cloudformation:us-east-1:238359237536:stack/amplify-photoshare-devh-122357/72c50190-bab3-11ee-a67f-0e2c4e8725db",
+      "AmplifyAppId": "dxo9g5bw24zta"
+    },
+    "categories": {
+      "auth": {
+        "photoshareb143529b": {}
+      },
+      "function": {
+        "S3Trigger984fb593": {},
+        "photoshare": {}
+      },
+      "storage": {
+        "photostorage": {}
+      }
+    }
+  }
 }
